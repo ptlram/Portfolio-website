@@ -1,5 +1,5 @@
 import React from "react";
-import pdf from "../component/pdf/Ram_Patel_resume.PDF";
+import pdf from "../component/pdf/Ram_Patel_resume.pdf";
 import hero from "../../public/assets/hero/hero.avif";
 import Typed from "typed.js";
 import { useEffect, useRef } from "react";
