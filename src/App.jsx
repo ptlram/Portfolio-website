@@ -5,7 +5,7 @@ import Experience from "./component/Experience";
 import Skills from "./component/Skills";
 import Project from "./component/Project";
 import Contact from "./component/Contact";
-import About from "./component/about";
+import About from "./component/About";
 import Aos from "aos";
 import { useEffect } from "react";
 import "aos/dist/aos.css";
