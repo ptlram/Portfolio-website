@@ -1,0 +1,34 @@
+[
+  {
+    "key": 1,
+    "title": "Coding and Mentorship Platform for University",
+    "imageSrc": "/project/coding-and-mentorship-platform.png",
+    "description": "Connect students with mentors for coding help.Implemented using React, Tailwind CSS, Node.js and MongoDB. Developed a platform to help mentors and students interact and learn from each other. Provided features for sharing courses, materials, videos, quizzes, and practice questions.",
+    "demo": "https://youtu.be/JVVmLLbYJSs",
+    "source": "https://github.com/ptlram/Mini-Project-coding-hub-.git"
+  },
+  {
+    "key": 2,
+    "title": "E-Commerce Website",
+    "imageSrc": "/project/ecommerece.png",
+    "description": "A full-featured online store with cart and payment.Developed a full-featured e-commerce website using PHP, Bootstrap, jQuery, AJAX, and MySQL.Implemented dual-role functionality for Admin and User, enabling role-based access and features, Integrated OTP-based login and registration system via email for secure user authentication,Incorporated Razorpay API to enable seamless online payment processing",
+    "demo": "https://youtu.be/GVHq62huB0Q",
+    "source": "https://github.com/ptlram/ecommerce.git"
+  },
+  {
+    "key": 3,
+    "title": "Citizen Care Hub",
+    "imageSrc": "/project/citizencarehub.png",
+    "description": "Users can submit and track complaints, Admins manage and assign them, and Workers resolve issues with proof of completion.",
+    "demo": "https://youtu.be/yuqXP3fKbHY",
+    "source": "https://github.com/ptlram/citizencarehub.git"
+  },
+  {
+    "key": 4,
+    "title": "Real estate construction website",
+    "imageSrc": "/project/real-estate-construction.png",
+    "description": "A dynamic website displaying real estate construction projects, services, ongoing developments, and architectural expertise.",
+    "demo": "https://youtu.be/tQ4RLmDQClk",
+    "source": "https://github.com/ptlram/Real-Estate-Construction-website.git"
+  }
+]

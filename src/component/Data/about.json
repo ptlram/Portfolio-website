@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ram Vijaybhai Patel",
+    "age": "22",
+    "location": "Bharuch, Gujarat, India",
+    "role": "MERN Stack Developer, PHP Developer",
+    "explored": "Angular, Laravel",
+    "goal": [
+      "Build modern, responsive, and user-focused websites that solve real-world problems"
+    ],
+    "profile": "profile.jpg"
+  }
+]

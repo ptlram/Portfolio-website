@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "role": "Php Developer",
+    "organisation": "Bits Infotech",
+    "startDate": "jan, 2025",
+    "endDate": "may 2025",
+    "location": " Ahmedabad, Gujarat, India",
+    "experiences": [
+      "Developed e-commerce website with (Admin/User) support, OTP email authentication, Razorpay integration, Bootstrap, jQuery, AJAX, and MySQL."
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Intern Web Developer",
+    "organisation": "Tatvasoft",
+    "startDate": "May, 2024",
+    "endDate": "June, 2024",
+    "location": " Ahmedabad, Gujarat, India",
+    "experiences": [
+      "Built a Community Investment Platform using React.js, Node.js, PostgreSQL, and integrated APIs for enhanced functionality and interactivity."
+    ]
+  },
+  {
+    "id": 3,
+    "role": "Student (B.E. in IT)-8.45 CGPA",
+    "organisation": "A D Patel Institute Of Technology (ADIT)",
+    "startDate": "June, 2021",
+    "endDate": "May, 2025",
+    "location": " Anand, Gujarat, India",
+    "experiences": [
+      "Completed a Bachelor's in Information Technology, developing academic projects like e-commerce system, Coding And Mentorship Platform"
+    ]
+  },
+  {
+    "id": 4,
+    "role": "Student (Minor Degree in IoT)-7.44 CGPA",
+    "organisation": "A D Patel Institute Of Technology (ADIT)",
+    "startDate": "June, 2022",
+    "endDate": "May, 2024",
+    "location": " Anand, Gujarat, India",
+    "experiences": [
+      "Completed a Minor Degree in IoT with hands-on experience in sensor integration, embedded systems, data protocols, and cloud-based smart system development."
+    ]
+  },
+  {
+    "id": 5,
+    "role": "Student (12th Science)",
+    "organisation": "Sarvodaya High School",
+    "startDate": "June, 2020",
+    "endDate": "May, 2021",
+    "location": " Ankleshwar, Gujarat, India",
+    "experiences": [
+      "Completed Higher Secondary Education in the Science stream.Focused on Mathematics and Computer Science."
+    ]
+  },
+  {
+    "id": 6,
+    "role": "Student (10th Grade)",
+    "organisation": "Smt K.V. Mangukiya School",
+    "startDate": "June, 2018",
+    "endDate": "May, 2019",
+    "location": " Surat, Gujarat, India",
+    "experiences": [
+      "Completed Secondary School Certificate (SSC).Core subjects included Mathematics and Science."
+    ]
+  }
+]

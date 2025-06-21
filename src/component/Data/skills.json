@@ -1,0 +1,90 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React.js",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Php",
+    "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+  },
+  {
+    "title": "jQuery",
+    "imageSrc": "skills/jquery.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgre.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwindcss.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Arduino IDE",
+    "imageSrc": "skills/arduino.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "VS Code",
+    "imageSrc": "skills/vscode.png"
+  },
+  {
+    "title": "Jira",
+    "imageSrc": "skills/jira.png"
+  },
+  {
+    "title": "Blender",
+    "imageSrc": "skills/blender.png"
+  },
+  {
+    "title": "Davinci Resolve",
+    "imageSrc": "skills/davinci-resolve.png"
+  }
+]
