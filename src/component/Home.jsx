@@ -8,10 +8,15 @@ function Home() {
 
   useEffect(() => {
     const option = {
-      strings: ["I'm Ram Patel", "I'm fullstack developer"],
+      strings: [
+        "Hi, I'm Ram Patel",
+        "I build modern websites",
+        "Full Stack Developer",
+      ],
       typeSpeed: 50,
       backSpeed: 50,
       loop: true,
+      showCursor: false,
     };
     const typed = new Typed(typedRef.current, option);
     return () => {
@@ -23,7 +28,7 @@ function Home() {
     <>
       <div className="container home" id="home">
         <div className="left" data-aos="fade-right" data-aos-duration="1000">
-          <h1 ref={typedRef}></h1>
+          <h1 ref={typedRef} />
           <a
             href={pdf}
             download="Ram_Patel_resume.pdf"
